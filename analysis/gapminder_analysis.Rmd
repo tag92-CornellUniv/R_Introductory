@@ -82,5 +82,9 @@ ggplot(gapminder_df, aes(x = year, y = lifeExp, group = country, color = contine
 a shown above, the median population was 7023596
 
 #insert table
+
 ```{r}
 ```
+
+
+and we add some new lines b/c of git
